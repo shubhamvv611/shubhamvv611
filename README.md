@@ -32,7 +32,7 @@
 ### ☕ Independently Developed startup For Competitive Aspirant
 * I was honored with the title of Young Entrepreneur by Scientist **Raghunath Mashelkar** and **Mr.Vijay Bhatkar**.
 <a href="https://www.dompsc.com/">
-    <img alt="Static Badge" src="https://www.dompsc.com/Footerheader.webp" alt="dompsc" width="260px" height="100px">
+    <img alt="Static Badge" src="https://www.dompsc.com/Footerheader.webp" alt="dompsc" width="310px" height="100px">
   </a>
 
 ---
