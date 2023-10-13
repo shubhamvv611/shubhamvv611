@@ -22,8 +22,19 @@
 ---
 ### :man_technologist: About Me 
 - :zap: I am a full-stack developer with over 3 years of experience in building and delivering high-quality web applications. I have a strong understanding of the full stack development.
+- 📋 I've previously worked as a Software Engineer at HummingBird and an Cloudredux
 -  🤔 I’m working as a Software Engineer and contributing to frontend and backend for building web applications
--  😄  Art is Ancient Form of Creativity, I Just create it With My Code. 
+-  🧭 I love exploring and working both in frontend and backend.
+-  🎒 I have completed nearly three to four internships primarily focused on frontend development, as well as six to seven full development projects independently..
+-  😄 **Art is Ancient Form of Creativity, I Just create it With My Code**.
+-  📫 How to reach me: Check social links.
+---
+### ☕ Independently Developed startup For Competitive Aspirant
+- <a href="https://www.dompsc.com/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/DoMpsc-blue?style=for-the-badge&logo=portfolio&label=Founder&color=Green&link=https%3A%2F%2Fwww.dompsc.com%2F" alt="dompsc">
+  </a>
+
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
