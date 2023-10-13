@@ -3,17 +3,18 @@
   <img src="https://shubhamvv611.github.io/Portfolio-Shubhamvv611/img/cartoon-trans.png" width="100"  />
   <div id="badges">
   <a href="https://www.linkedin.com/in/shubhamvv611/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=whit" alt="LinkedIn Badge"/>
   </a>
     <a href="https://www.dompsc.com/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/DoMpsc-blue?style=flat&logo=portfolio&label=Founder&color=blue&link=https%3A%2F%2Fwww.dompsc.com%2F">
+    <img alt="Static Badge" src="https://img.shields.io/badge/DoMpsc-blue?style=for-the-badge&logo=portfolio&label=Founder&color=Green&link=https%3A%2F%2Fwww.dompsc.com%2F" alt="dompsc">
 
   </a>
 
   <a href="https://twitter.com/shubhamvv611">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-red?style=social&logo=portfolio&logoColor=REd&label=Portfolio&labelColor=red&color=red&link=https%3A%2F%2Fshubhamvv611.github.io%2FPortfolio-Shubhamvv611%2F">
+  <a href="https://shubhamvv611.github.io/Portfolio-Shubhamvv611/">
+<img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=link&logoColor=white&labelColor=red&color=red&link=https%3A%2F%2Fshubhamvv611.github.io%2FPortfolio-Shubhamvv611%2F"></a>
 
 </div>
 
