@@ -15,15 +15,19 @@
   </a>
   <a href="https://shubhamvv611.github.io/Portfolio-Shubhamvv611/">
 <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=link&logoColor=white&labelColor=red&color=red&link=https%3A%2F%2Fshubhamvv611.github.io%2FPortfolio-Shubhamvv611%2F"></a>
-
 </div>
-<h2> ![](https://komarev.com/ghpvc/?username=shubhamvv611&style=for-the-badge)    </h2>
+<p><img src="https://komarev.com/ghpvc/?username=shubhamvv611&style=for-the-badge&color=orange" alt=""/></p>
+</div>
+
+---
+### :man_technologist: About Me 
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
 
 
 
 
   
-</div>
 <!--
 **shubhamvv611/shubhamvv611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
