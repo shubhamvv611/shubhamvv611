@@ -1,4 +1,4 @@
-<b align="center">Hi there 👋 I am Shubham Vyawahare</b>
+<h1 align="center" color="blue">Hi there 👋 I am Shubham Vyawahare</h1>
 <div id="header" align="center" >
   <img src="https://shubhamvv611.github.io/Portfolio-Shubhamvv611/img/cartoon-trans.png" width="100"  />
   <div id="badges">
@@ -17,7 +17,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=link&logoColor=white&labelColor=red&color=red&link=https%3A%2F%2Fshubhamvv611.github.io%2FPortfolio-Shubhamvv611%2F"></a>
 
 </div>
-
+<h2> ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)    </h2>
 
 
 
