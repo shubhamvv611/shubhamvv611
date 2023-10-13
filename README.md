@@ -17,7 +17,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=link&logoColor=white&labelColor=red&color=red&link=https%3A%2F%2Fshubhamvv611.github.io%2FPortfolio-Shubhamvv611%2F"></a>
 
 </div>
-<h2> ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)    </h2>
+<h2> ![](https://komarev.com/ghpvc/?username=shubhamvv611&style=for-the-badge)    </h2>
 
 
 
