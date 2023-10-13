@@ -30,10 +30,10 @@
 -  📫 How to reach me: Check social links.
 ---
 ### ☕ Independently Developed startup For Competitive Aspirant
-- <a href="https://www.dompsc.com/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/DoMpsc-blue?style=for-the-badge&logo=portfolio&label=Founder&color=Green&link=https%3A%2F%2Fwww.dompsc.com%2F" alt="dompsc">
+* I was honored with the title of Young Entrepreneur by Scientist **Raghunath Mashelkar** and **Mr.Vijay Bhatkar**.
+<a href="https://www.dompsc.com/">
+    <img alt="Static Badge" src="https://www.dompsc.com/Footerheader.webp" alt="dompsc" width="260px" height="100px">
   </a>
-
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
